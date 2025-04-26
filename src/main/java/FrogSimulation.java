@@ -43,7 +43,7 @@ good++;
 return (double)good/num;
 	}
 	
-}
+
 	//ignore the code below this line
 	//-------------------------------------------------------------------------------------
 	private int[] hopValues;
@@ -113,3 +113,4 @@ return (double)good/num;
 	
 	
 } 
+}
