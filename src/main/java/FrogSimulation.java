@@ -112,5 +112,5 @@ return (double)good/num;
 	
 	
 	
-} 
+
 }
